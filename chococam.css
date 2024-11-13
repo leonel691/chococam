@@ -1,0 +1,76 @@
+.body{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+nav{display: flex;
+}
+.icone{background-image: url(logo.jpg);
+    background-size: cover;
+    background-size: 100%;
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+}
+ul{ margin-left: 300px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+    margin-right: 300px;
+    display: flex;
+    gap: 50px;
+    height: 21px;
+}
+li{
+    height: 22px;
+list-style: none;
+}
+a{text-decoration: none;
+color: black;}
+.contact{
+    background-color: rgba(77, 39, 18, 0.932);
+    border: 0px;
+    height: 70px;
+    width: 170px;
+    margin-top: 10px;
+    margin-left: 400px;
+    color: aliceblue;
+}
+hr{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: rgb(71, 27, 1);
+}
+
+
+.disposition{display: flex;}
+.text{  
+    margin-top: 100px;
+    margin-right: 300px;
+}
+h1{ 
+    margin-bottom: 40px;
+}
+p{
+
+}
+.commande{
+    background-color: rgba(77, 39, 18, 0.932);
+    border: 0px;
+    height: 70px;
+    width: 350px;
+    color: aliceblue;
+    margin-top: 50px;
+    margin-left: 5px;
+    
+}
+.image{
+    margin-left: 100px;
+    background-image: url(choco_.jpg);
+    background-size: cover;
+    background-size: 100%;
+    width: 1000px;
+    height: 860px;
+    margin-right: auto;
+}
+
